@@ -14,7 +14,8 @@ public class Start {
 		diskussionsrunde[12] = new KalaunerSays();
 		diskussionsrunde[23] = new SchoberSays();
 		diskussionsrunde[20] = new PolydorSays();
-		diskussionsrunde[21] = new P�cherSays();
+		diskussionsrunde[21] = new PuecherSays();
+		diskussionsrunde[22] = new RitterSays();
 		diskussionsrunde[13] = new KalaunerSays();
 		diskussionsrunde[24] = new SchwenznerSays();
 		diskussionsrunde[26] = new WeinbergerSays();
