@@ -1,5 +1,6 @@
 // noch nicht fertig
 // immer noch nicht
+// langweilig
 public class Start {
 	public static void main(String[] a) {
 		SimonSays[] diskussionsrunde = new SimonSays[28];
