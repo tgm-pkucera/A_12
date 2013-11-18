@@ -25,6 +25,7 @@ public class Start {
 		diskussionsrunde[22] = new RitterSays();
 		diskussionsrunde[23] = new SchoberSays();
 		diskussionsrunde[13] = new KalaunerSays();
+		diskussionsrunde[16] = new KritzlSays();
 		diskussionsrunde[24] = new SchwenznerSays();
 		diskussionsrunde[25] = new TaschnerSays();
 		diskussionsrunde[26] = new WeinbergerSays();
