@@ -2,6 +2,8 @@ public class Start {
 	public static void main(String[] a) {
 		SimonSays[] diskussionsrunde = new SimonSays[28];
 		diskussionsrunde[0] = new ListSays();
+		diskussionsrunde[2] = new ErcegSays();
+		diskussionsrunde[5] = new GradonskiSays();
 		diskussionsrunde[3] = new FockSays();
 		diskussionsrunde[6] = new HackenbergerSays();
 		diskussionsrunde[8] = new HamplSays();
