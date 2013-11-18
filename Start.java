@@ -7,6 +7,7 @@ public class Start {
 
 =======
 		diskussionsrunde[2] = new ErcegSays();
+		diskussionsrunde[5] = new GradonskiSays();
 		diskussionsrunde[3] = new FockSays();
 		diskussionsrunde[6] = new HackenbergerSays();
 		diskussionsrunde[8] = new HamplSays();
