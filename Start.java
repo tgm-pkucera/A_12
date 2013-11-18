@@ -4,6 +4,7 @@ public class Start {
 
 		diskussionsrunde[23] = new SchoberSays();
 		diskussionsrunde[0] = new ListSays();
+		diskussionsrunde[1] = new BrucknerSays();
 		diskussionsrunde[2] = new ErcegSays();
 		diskussionsrunde[5] = new GradonskiSays();
 		diskussionsrunde[3] = new FockSays();
