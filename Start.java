@@ -3,6 +3,7 @@ public class Start {
 		SimonSays[] diskussionsrunde = new SimonSays[28];
 		diskussionsrunde[0] = new ListSays();
 		diskussionsrunde[9] = new HollanderSays();
+		diskussionsrunde[12] = new KalaunerSays();
 
 		for (SimonSays s : diskussionsrunde) {
 			if (s != null)  
