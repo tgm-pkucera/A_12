@@ -6,6 +6,7 @@ public class Start {
 		diskussionsrunde[8] = new HamplSays();
 		diskussionsrunde[9] = new HollanderSays();
 		diskussionsrunde[12] = new KalaunerSays();
+		diskussionsrunde[24] = new SchwenznerSays();
 		for (SimonSays s : diskussionsrunde) {
 			if (s != null)  
 				s.say("Let's get started!");
