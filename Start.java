@@ -8,11 +8,9 @@ public class Start {
 		diskussionsrunde[9] = new HollanderSays();
 		diskussionsrunde[10] = new JakubekSays();
 		diskussionsrunde[12] = new KalaunerSays();
-<<<<<<< HEAD
 		diskussionsrunde[24] = new SchwenznerSays();
-=======
+		diskussionsrunde[26] = new WeinbergerSays();
 		diskussionsrunde[27] = new WorthaSays();
->>>>>>> 32b107df1207a2cf70d002131b42a4c2b22f9d93
 		for (SimonSays s : diskussionsrunde) {
 			if (s != null)  
 				s.say("Let's get started!");
