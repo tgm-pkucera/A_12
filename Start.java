@@ -15,7 +15,6 @@ public class Start {
 		diskussionsrunde[24] = new SchwenznerSays();
 		diskussionsrunde[26] = new WeinbergerSays();
 		diskussionsrunde[27] = new WorthaSays();
->>>>>>> fb30892abba327dea131f17c382f9cc8cb9bfe2e
 		for (SimonSays s : diskussionsrunde) {
 			if (s != null)  
 				s.say("Let's get started!");
