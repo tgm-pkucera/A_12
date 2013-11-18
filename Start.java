@@ -7,6 +7,7 @@ public class Start {
 		diskussionsrunde[8] = new HamplSays();
 		diskussionsrunde[9] = new HollanderSays();
 		diskussionsrunde[12] = new KalaunerSays();
+		diskussionsrunde[21] = new PücherSays();
 		diskussionsrunde[27] = new WorthaSays();
 		for (SimonSays s : diskussionsrunde) {
 			if (s != null)  
