@@ -1,3 +1,4 @@
+// noch nicht fertig
 public class Start {
 	public static void main(String[] a) {
 		SimonSays[] diskussionsrunde = new SimonSays[28];
