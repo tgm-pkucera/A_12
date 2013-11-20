@@ -14,11 +14,8 @@ public class Start {
 		diskussionsrunde[10] = new JakubekSays();
 		diskussionsrunde[11] = new JevticSays();
 		diskussionsrunde[12] = new KalaunerSays();
-<<<<<<< HEAD
                 diskussionsrunde[13] = new KocsisSays();
-=======
 		diskussionsrunde[14] = new KoelblSays();
->>>>>>> cbbbe6d59f735e315e4eb075497832a5d97cf92f
 		diskussionsrunde[15] = new KraftSays();
 		diskussionsrunde[16] = new KritzlSays();
 		diskussionsrunde[20] = new PolydorSays();
