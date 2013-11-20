@@ -13,7 +13,7 @@ public class Start {
 		diskussionsrunde[9] = new HollanderSays();
 		diskussionsrunde[10] = new JakubekSays();
 		diskussionsrunde[12] = new KalaunerSays();
-		diskussionsrunde[13] = new KalaunerSays();
+		diskussionsrunde[15] = new KraftSays();
 		diskussionsrunde[16] = new KritzlSays();
 		diskussionsrunde[20] = new PolydorSays();
 		diskussionsrunde[21] = new PuecherSays();
