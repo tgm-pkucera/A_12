@@ -22,8 +22,8 @@ public class AU03 {
 			System.exit(1);
 		}
 		
-		String file = args[0];
-		String pattern = args[1];
+		String file = args[1];
+		String pattern = args[0];
 		
 		FileReader fr;
 		try {
@@ -35,6 +35,7 @@ public class AU03 {
 				input.add(s);
 			}
 			System.out.println(JGrep.jgrep(input.toArray(new String[input.size()]), pattern));
+			fr.close();
 			br.close();
 		} catch (FileNotFoundException e) {
 			System.out.println("File not found");

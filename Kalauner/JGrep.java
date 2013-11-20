@@ -16,9 +16,10 @@ public class JGrep {
 	public static String jgrep(String[] input, String pattern) {
 		String output = "";
 		Pattern p = Pattern.compile(pattern);
-		
 		for (String s : input) {
-			if (p.matcher(s).matches()) output += (s + "\n");
+			if (p.matcher(s).find()) {
+				output += s + "\n";
+			}
 		}
 		return output;
 	}
