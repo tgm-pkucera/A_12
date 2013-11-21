@@ -29,7 +29,7 @@ public class JGrep {
 		Pattern p = Pattern.compile(pattern);
 		for (String s : input) {
 			Matcher m = p.matcher(s);
-			if (m.matches()) {
+			if (m.find()) {
 				if (colored) {
 					String normal1 = s.substring(0, m.start());
 					String colored1 = s.substring(m.start(), m.end());
@@ -82,7 +82,7 @@ public class JGrep {
 	public static String grep(String pattern, String s, boolean colored) {
 		Pattern p = Pattern.compile(pattern);
 		Matcher m = p.matcher(s);
-		if (m.matches()) {
+		if (m.find()) {
 			if (colored) {
 				String normal1 = s.substring(0, m.start());
 				String colored1 = s.substring(m.start(), m.end());
