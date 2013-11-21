@@ -12,14 +12,15 @@ import at.rene8888.au04.jgrep.JGrep;
  * Main Klasse
  * 
  * @author Rene Hollander 3AHIT
- *
+ * 
  */
 public class Main {
 
 	/**
 	 * Main Methode
 	 * 
-	 * @param args Kommandozeilenargumente
+	 * @param args
+	 *            Kommandozeilenargumente
 	 */
 	public static void main(String[] args) {
 		new Main(args);
@@ -29,7 +30,8 @@ public class Main {
 	private Scanner s;
 
 	/**
-	 * @param args Kommandzeilenargumente
+	 * @param args
+	 *            Kommandzeilenargumente
 	 */
 	public Main(String[] args) {
 		this.running = true;
@@ -47,27 +49,20 @@ public class Main {
 				System.out.print("in >");
 			}
 		} else if (args.length >= 2) {
-
-			File[] files = new File[args.length - 1];
-
 			for (int i = 1; i < args.length; i++) {
 				File f = new File(args[i]);
 				if (f.exists() && f.isFile()) {
-					files[i - 1] = f;
+					try {
+						System.out.println(f.getName() + ":");
+						JGrep.grepToConsole(args[0], f, true);
+						System.out.println("");
+					} catch (IOException e) {
+						e.printStackTrace();
+						continue;
+					}
 				} else {
 					System.out.println("Invalid File!");
-					return;
-				}
-			}
-
-			for (File f : files) {
-				try {
-					String[] out = JGrep.grep(args[0], f, true);
-					for (String s : out) {
-						AnsiConsole.out.println(s);
-					}
-				} catch (IOException e) {
-					e.printStackTrace();
+					continue;
 				}
 			}
 		} else if (args.length < 2) {
