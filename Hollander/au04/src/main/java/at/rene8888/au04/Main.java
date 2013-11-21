@@ -34,14 +34,17 @@ public class Main {
 	public Main(String[] args) {
 		this.running = true;
 		if ((args.length == 2) && (args[1].equals("--"))) {
-			Runtime.getRuntime().addShutdownHook(new ShutdownThread(this));
 			this.s = new Scanner(System.in);
+			System.out.print("in >");
 			while (s.hasNext() && this.running) {
 				String in = s.nextLine();
 				String ret = JGrep.grep(args[0], in, true);
 				if (ret != null) {
-					AnsiConsole.out.println(ret);
+					AnsiConsole.out.println("out>" + ret);
+				} else {
+					AnsiConsole.out.println("out>Regex Pattern not matching!");
 				}
+				System.out.print("in >");
 			}
 		} else if (args.length >= 2) {
 
@@ -68,18 +71,9 @@ public class Main {
 				}
 			}
 		} else if (args.length < 2) {
-			System.out.println("Not enough arguments!");
+			System.out.println("Arguments: jgrep.jar <regex> <file> [file, ...] or jgrep.jar <regex> <-->!");
 		} else {
 			System.out.println("Unexpected Error!");
 		}
 	}
-
-	/**
-	 * Methode um den Scanner zu beenden
-	 */
-	public void stop() {
-		this.running = false;
-		this.s.close();
-	}
-
 }
