@@ -1,9 +1,0 @@
-2013-11-21 09:33:10.246 [Worker-2] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@58d4ffc2
-2013-11-21 09:33:10.254 [Worker-2] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@447e79dd
-2013-11-21 09:33:10.322 [Worker-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextLink in [], no license for [com.objectaid.uml.addon]
-2013-11-21 09:33:10.322 [Worker-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextLinkEditPart in [], no license for [com.objectaid.uml.addon]
-2013-11-21 09:33:10.323 [Worker-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.PTextLink in [], no license for [com.objectaid.uml.addon]
-2013-11-21 09:33:10.324 [Worker-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.diagram.ConnectionEnd in [], no license for [com.objectaid.uml.addon]
-2013-11-21 09:33:10.325 [Worker-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.persistence.PersistedConnectionEnd in [], no license for [com.objectaid.uml.addon]
-2013-11-21 09:33:10.325 [Worker-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextNodeDefinition in [com.objectaid.uml.cls], no license for [com.objectaid.uml.addon]
-2013-11-21 09:33:10.451 [Worker-2] INFO    com.objectaid.uml.model.manage.LanguageElementManager getLanguageElementFactories: com.objectaid.uml.languageElementFactories: com.objectaid.uml.java.JavaElementFactory
