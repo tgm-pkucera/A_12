@@ -1,0 +1,613 @@
+2013-11-21 09:14:01,691 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-11-21 09:14:01,950 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-11-21 09:14:14,622 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au01:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au01\pom.xml.
+2013-11-21 09:14:14,764 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au02:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au02\pom.xml.
+2013-11-21 09:14:14,810 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:14:14,847 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:14:14,871 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-11-21 09:14:14,950 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.pom
+2013-11-21 09:14:14,954 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.pom
+2013-11-21 09:14:15,160 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-11-21 09:14:15,222 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.pom
+2013-11-21 09:14:15,228 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.pom
+2013-11-21 09:14:15,289 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-11-21 09:14:15,390 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.pom
+2013-11-21 09:14:15,420 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.pom
+2013-11-21 09:14:15,782 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-11-21 09:14:15,893 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar
+2013-11-21 09:14:16,244 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar
+2013-11-21 09:14:17,436 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src
+2013-11-21 09:14:17,437 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/main/resources
+2013-11-21 09:14:17,439 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src/test/java
+2013-11-21 09:14:17,442 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/test/resources
+2013-11-21 09:14:17,898 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au01:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au01\pom.xml.
+2013-11-21 09:14:18,056 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au02:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au02\pom.xml.
+2013-11-21 09:14:18,131 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:14:18,192 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:14:21,423 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:21,431 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:14:21,436 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:21,440 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:14:21,872 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:21,877 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:14:21,901 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:21,905 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:14:22,355 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:22,359 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:14:22,390 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:22,394 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:14:22,468 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:22,472 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:14:22,477 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:14:22,481 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:02,399 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:15:02,431 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:02,437 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:02,440 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:02,444 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:07,892 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:15:07,922 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:07,926 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:07,930 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:07,932 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:11,549 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:15:11,574 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:11,576 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:11,577 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:11,581 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:14,875 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:15:14,902 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:14,906 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:14,910 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:14,913 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:16,120 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:15:16,144 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:16,148 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:16,151 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:16,155 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:17,379 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:15:17,405 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:17,410 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:15:17,413 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:15:17,415 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:16:16,869 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:16:16,895 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:16:16,897 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:16:16,899 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:16:16,901 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:16:28,806 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:16:28,824 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:16:28,827 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:16:28,830 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:16:28,833 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:16:55,459 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:16:55,479 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:16:55,483 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:16:55,485 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:16:55,489 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:01,609 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:17:01,629 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:01,632 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:01,635 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:01,637 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:03,883 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:17:03,902 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:03,905 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:03,906 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:03,910 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:17,202 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 195513 ms
+2013-11-21 09:17:21,309 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:17:21,339 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:21,343 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:21,346 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:21,350 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:30,923 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-21 09:17:31,038 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au01:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au01\pom.xml.
+2013-11-21 09:17:31,391 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au02:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au02\pom.xml.
+2013-11-21 09:17:31,433 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:17:31,540 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:17:31,593 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src
+2013-11-21 09:17:31,594 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/main/resources
+2013-11-21 09:17:31,596 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src/test/java
+2013-11-21 09:17:31,596 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/test/resources
+2013-11-21 09:17:31,607 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src
+2013-11-21 09:17:31,607 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/main/resources
+2013-11-21 09:17:31,608 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src/test/java
+2013-11-21 09:17:31,608 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/test/resources
+2013-11-21 09:17:31,620 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src
+2013-11-21 09:17:31,620 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/main/resources
+2013-11-21 09:17:31,621 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src/test/java
+2013-11-21 09:17:31,621 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/test/resources
+2013-11-21 09:17:31,630 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src
+2013-11-21 09:17:31,630 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/main/resources
+2013-11-21 09:17:31,630 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src/test/java
+2013-11-21 09:17:31,631 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/test/resources
+2013-11-21 09:17:31,632 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-21 09:17:31,898 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:31,901 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:31,904 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:31,910 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:32,013 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:32,018 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:17:32,020 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:32,023 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:32,112 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:32,115 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:17:32,117 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:32,120 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:32,149 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:32,152 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:32,154 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:32,157 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:47,086 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:47,089 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:47,090 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:47,095 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:52,919 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:52,922 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:52,923 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:17:52,928 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:17:58,219 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au04
+2013-11-21 09:17:58,221 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-11-21 09:18:39,490 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:39,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:18:39,497 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:39,501 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:18:39,924 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:39,930 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:18:39,938 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:39,941 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:18:40,110 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:40,116 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:18:40,123 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:40,126 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:18:40,178 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:40,183 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:18:40,184 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:18:40,186 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:18:59,073 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au04
+2013-11-21 09:18:59,075 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-11-21 09:19:37,902 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au03
+2013-11-21 09:19:37,904 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2013-11-21 09:19:42,896 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au03
+2013-11-21 09:19:42,898 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-11-21 09:19:48,681 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:19:48,687 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:19:48,690 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:19:48,694 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:20:41,402 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:20:41,425 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:20:41,428 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:20:41,431 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:20:41,435 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:20:48,468 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:20:48,489 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:20:48,493 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:20:48,496 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:20:48,500 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:20:58,703 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:20:58,724 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:20:58,728 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:20:58,731 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:20:58,733 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:13,291 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-21 09:21:13,398 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au01:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au01\pom.xml.
+2013-11-21 09:21:13,434 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au02:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au02\pom.xml.
+2013-11-21 09:21:13,469 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:21:13,501 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:21:13,599 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src
+2013-11-21 09:21:13,599 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/main/resources
+2013-11-21 09:21:13,600 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src/test/java
+2013-11-21 09:21:13,602 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/test/resources
+2013-11-21 09:21:13,610 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src
+2013-11-21 09:21:13,612 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/main/resources
+2013-11-21 09:21:13,613 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src/test/java
+2013-11-21 09:21:13,614 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/test/resources
+2013-11-21 09:21:13,623 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src
+2013-11-21 09:21:13,623 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/main/resources
+2013-11-21 09:21:13,624 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src/test/java
+2013-11-21 09:21:13,626 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/test/resources
+2013-11-21 09:21:13,632 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src
+2013-11-21 09:21:13,632 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/main/resources
+2013-11-21 09:21:13,632 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src/test/java
+2013-11-21 09:21:13,632 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/test/resources
+2013-11-21 09:21:13,633 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-21 09:21:13,903 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:13,906 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:13,908 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:13,910 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:13,986 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:13,990 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:21:13,992 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:13,995 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:14,072 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:14,075 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:21:14,078 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:14,080 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:14,108 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:14,111 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:14,113 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:14,115 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:18,152 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au03
+2013-11-21 09:21:18,153 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-11-21 09:21:55,351 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:21:55,374 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:55,377 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:21:55,378 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:21:55,380 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:07,680 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-21 09:22:07,791 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au01:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au01\pom.xml.
+2013-11-21 09:22:07,903 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au02:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au02\pom.xml.
+2013-11-21 09:22:07,941 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:22:07,994 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:22:08,053 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src
+2013-11-21 09:22:08,053 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/main/resources
+2013-11-21 09:22:08,056 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src/test/java
+2013-11-21 09:22:08,056 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/test/resources
+2013-11-21 09:22:08,064 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src
+2013-11-21 09:22:08,064 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/main/resources
+2013-11-21 09:22:08,067 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src/test/java
+2013-11-21 09:22:08,067 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/test/resources
+2013-11-21 09:22:08,075 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src
+2013-11-21 09:22:08,075 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/main/resources
+2013-11-21 09:22:08,075 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src/test/java
+2013-11-21 09:22:08,076 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/test/resources
+2013-11-21 09:22:08,082 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src
+2013-11-21 09:22:08,082 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/main/resources
+2013-11-21 09:22:08,084 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src/test/java
+2013-11-21 09:22:08,084 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/test/resources
+2013-11-21 09:22:08,086 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-21 09:22:08,341 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,345 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:08,346 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,349 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:08,428 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,431 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:22:08,433 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,436 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:08,514 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,518 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:22:08,519 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,522 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:08,553 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,557 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:08,559 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:08,561 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:22:12,587 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au03
+2013-11-21 09:22:12,587 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-11-21 09:22:17,830 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:17,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:22:17,835 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:22:17,837 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:02,529 [Worker-3] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1253) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1105) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:179) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:86) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginExecution(MavenXpp3Reader.java:3137) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePlugin(MavenXpp3Reader.java:2918) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:1167) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2456) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+2013-11-21 09:27:07,284 [Worker-3] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM C:\Git\SEW3AHIT\Hollander\au03\pom.xml: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11)  @ line 86, column 11
+ for project  at C:\Git\SEW3AHIT\Hollander\au03\pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM C:\Git\SEW3AHIT\Hollander\au03\pom.xml: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11)  @ line 86, column 11
+ for project  at C:\Git\SEW3AHIT\Hollander\au03\pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:149) ~[maven-core-3.0.4.jar:3.0.4]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:102) ~[maven-core-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:621) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:768) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:897) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:764) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:165) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:79) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:284) [org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:754) [org.eclipse.m2e.editor_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM C:\Git\SEW3AHIT\Hollander\au03\pom.xml: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11)  @ line 86, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:195) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:499) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:261) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:232) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:142) ~[maven-core-3.0.4.jar:3.0.4]
+	... 15 common frames omitted
+2013-11-21 09:27:07,438 [Worker-29] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected character in markup \r (position: END_TAG seen ...</classPath>\r\n\t\t\t\t\t\t\t<!\r... @86:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1253) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1105) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:179) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:86) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginExecution(MavenXpp3Reader.java:3137) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePlugin(MavenXpp3Reader.java:2918) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:1167) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2456) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+2013-11-21 09:27:12,417 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:27:12,469 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:12,472 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:12,473 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:12,478 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:14,998 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:27:15,024 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:15,026 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:15,029 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:15,033 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:17,319 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:27:17,341 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:17,346 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:17,349 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:17,354 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:32,953 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:27:32,977 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:32,981 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:32,985 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:32,987 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:47,577 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:27:47,599 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:47,602 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:47,603 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:47,605 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:54,203 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:27:54,223 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:54,226 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:27:54,229 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:27:54,231 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:04,654 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:28:04,675 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:04,679 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:04,683 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:04,687 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:27,486 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:28:27,520 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:27,524 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:27,527 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:27,530 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:36,429 [Worker-27] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: comment started on line 88 and column 12 was not closed (position: END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11) caused by: java.io.EOFException: no more data available - expected end tags </configuration></execution></executions></plugin></plugins></build></project> to close start tag <configuration> from line 79 and start tag <execution> from line 73 and start tag <executions> from line 72 and start tag <plugin> from line 68 and start tag <plugins> from line 16 and start tag <build> from line 14 and start tag <project> from line 1, parser stopped on END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: comment started on line 88 and column 12 was not closed (position: END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11) caused by: java.io.EOFException: no more data available - expected end tags </configuration></execution></executions></plugin></plugins></build></project> to close start tag <configuration> from line 79 and start tag <execution> from line 73 and start tag <executions> from line 72 and start tag <plugin> from line 68 and start tag <plugins> from line 16 and start tag <build> from line 14 and start tag <project> from line 1, parser stopped on END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2417) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1189) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1105) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:179) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:86) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginExecution(MavenXpp3Reader.java:3137) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePlugin(MavenXpp3Reader.java:2918) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:1167) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2456) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+Caused by: java.io.EOFException: no more data available - expected end tags </configuration></execution></executions></plugin></plugins></build></project> to close start tag <configuration> from line 79 and start tag <execution> from line 73 and start tag <executions> from line 72 and start tag <plugin> from line 68 and start tag <plugins> from line 16 and start tag <build> from line 14 and start tag <project> from line 1, parser stopped on END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3037) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3048) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2358) ~[plexus-utils-2.0.6.jar:na]
+	... 39 common frames omitted
+2013-11-21 09:28:37,728 [Worker-25] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.100.v20130521-2026.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: comment started on line 88 and column 12 was not closed (position: END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11) caused by: java.io.EOFException: no more data available - expected end tags </configuration></execution></executions></plugin></plugins></build></project> to close start tag <configuration> from line 79 and start tag <execution> from line 73 and start tag <executions> from line 72 and start tag <plugin> from line 68 and start tag <plugins> from line 16 and start tag <build> from line 14 and start tag <project> from line 1, parser stopped on END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: comment started on line 88 and column 12 was not closed (position: END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11) caused by: java.io.EOFException: no more data available - expected end tags </configuration></execution></executions></plugin></plugins></build></project> to close start tag <configuration> from line 79 and start tag <execution> from line 73 and start tag <executions> from line 72 and start tag <plugin> from line 68 and start tag <plugins> from line 16 and start tag <build> from line 14 and start tag <project> from line 1, parser stopped on END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2417) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1189) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1105) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:179) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.Xpp3DomBuilder.build(Xpp3DomBuilder.java:86) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginExecution(MavenXpp3Reader.java:3137) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePlugin(MavenXpp3Reader.java:2918) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:1167) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2456) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+Caused by: java.io.EOFException: no more data available - expected end tags </configuration></execution></executions></plugin></plugins></build></project> to close start tag <configuration> from line 79 and start tag <execution> from line 73 and start tag <executions> from line 72 and start tag <plugin> from line 68 and start tag <plugins> from line 16 and start tag <build> from line 14 and start tag <project> from line 1, parser stopped on END_TAG seen ...</plugins>\r\n\t</build>\r\n</project>... @111:11
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3037) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3048) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2358) ~[plexus-utils-2.0.6.jar:na]
+	... 39 common frames omitted
+2013-11-21 09:28:42,792 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:28:42,854 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:42,858 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:42,860 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:42,864 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:44,085 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:44,090 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:44,093 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:44,097 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:50,603 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:28:50,636 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:50,640 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:28:50,643 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:28:50,645 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:04,614 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-21 09:29:04,747 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au01:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au01\pom.xml.
+2013-11-21 09:29:04,783 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au02:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au02\pom.xml.
+2013-11-21 09:29:04,817 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au03:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au03\pom.xml.
+2013-11-21 09:29:04,857 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: at.rene8888:au04:0.0.1-SNAPSHOT @ C:\Git\SEW3AHIT\Hollander\au04\pom.xml.
+2013-11-21 09:29:04,916 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src
+2013-11-21 09:29:04,918 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/main/resources
+2013-11-21 09:29:04,919 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au01/src/test/java
+2013-11-21 09:29:04,921 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au01/src/test/resources
+2013-11-21 09:29:04,929 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src
+2013-11-21 09:29:04,929 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/main/resources
+2013-11-21 09:29:04,929 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au02/src/test/java
+2013-11-21 09:29:04,931 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au02/src/test/resources
+2013-11-21 09:29:04,940 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src
+2013-11-21 09:29:04,940 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/main/resources
+2013-11-21 09:29:04,940 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au03/src/test/java
+2013-11-21 09:29:04,940 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au03/src/test/resources
+2013-11-21 09:29:04,946 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src
+2013-11-21 09:29:04,946 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/main/resources
+2013-11-21 09:29:04,946 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au04/src/test/java
+2013-11-21 09:29:04,946 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /au04/src/test/resources
+2013-11-21 09:29:04,947 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-21 09:29:05,158 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,160 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:05,161 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,164 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:05,228 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,231 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:29:05,234 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,237 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:05,309 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,313 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-11-21 09:29:05,314 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,317 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:05,347 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,349 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:05,351 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:05,354 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:10,798 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\SEW3AHIT\Hollander\au04
+2013-11-21 09:29:10,798 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-11-21 09:29:15,795 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:15,798 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:29:15,799 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-21 09:29:15,801 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-21 09:33:07,300 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-11-21 09:33:07,371 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-11-21 09:33:10,631 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 3335 ms
