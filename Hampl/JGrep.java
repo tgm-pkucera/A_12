@@ -8,12 +8,13 @@ import java.io.RandomAccessFile;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+//import org.fusesource.jansi.AnsiConsole; For Microsoft Windows
 
 /**
  * Implements the UNIX grep command in java
  * 
  * @author Burkhard Hampl
- * @version 0.99
+ * @version 1.0
  */
 public class JGrep {
 	private RandomAccessFile f;
@@ -36,8 +37,17 @@ public class JGrep {
 					while (s.hasNext()) {
 						String userInput = s.next();
 						Matcher m = p.matcher(userInput);
-						if (m.matches())
-							System.out.println(userInput);
+						boolean matchFound = false;
+						StringBuffer sb = new StringBuffer(userInput.length());
+						while (m.find()) {
+							m.appendReplacement(sb, "\u001b[31m$0\u001b[0m");
+							matchFound = true;
+						}
+						m.appendTail(sb);
+						if (matchFound) {
+							//AnsiConsole.out.println(sb); For Microsoft Windows
+							System.out.println(sb);
+						}
 					}
 					s.close();
 				} else {
@@ -48,8 +58,17 @@ public class JGrep {
 						if (input == null)
 							break;
 						Matcher m = p.matcher(input);
-						if (m.matches())
-							System.out.println(input);
+						boolean matchFound = false;
+						StringBuffer sb = new StringBuffer(input.length());
+						while (m.find()) {
+							m.appendReplacement(sb, "\u001b[31m$0\u001b[0m");
+							matchFound = true;
+						}
+						m.appendTail(sb);
+						if (matchFound) {
+							//AnsiConsole.out.println(sb); For Microsoft Windows
+							System.out.println(sb);
+						}
 					}
 					f.close();
 					System.out.println("");
@@ -65,7 +84,8 @@ public class JGrep {
 		} finally {
 			try {
 				f.close();
-			} catch (Exception e) {}
+			} catch (Exception e) {
+			}
 		}
 	}
 
