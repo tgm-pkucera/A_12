@@ -1,11 +1,10 @@
-package at.sew.au05;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.regex.Pattern;
 
 /**
  * AU05
@@ -29,31 +28,27 @@ public class AU05 {
 
 		String pattern = args[0];
 
-		String[] files = new String[args.length - 1];
-		for (int i = 0; i < files.length; i++)
-			files[i] = args[i + 1];
-
 		FileReader fr;
 		BufferedReader br;
 		try {
-			for (int i = 0; i < files.length; i++) {
-				if (files[i].equals("--")) {
+			for (int i = 1; i < args.length; i++) {
+				if (args[i].equals("--")) {
 					@SuppressWarnings("resource")
 					Scanner scan = new Scanner(System.in);
+					Pattern p = Pattern.compile(pattern);
 					while (true) {
 						System.out.print("Enter string: ");
-						String[] in = { scan.nextLine() };
-						System.out.print(JGrep.jgrep(in, pattern));
+						System.out.print(JGrep.jgrep(scan.nextLine(), p));
 					}
 				} else {
-					fr = new FileReader(new File(files[i]));
+					fr = new FileReader(new File(args[i]));
 					br = new BufferedReader(fr);
 					String s;
 					ArrayList<String> input = new ArrayList<String>();
 					while ((s = br.readLine()) != null) {
 						input.add(s);
 					}
-					System.out.println(files[i] + ":\n");
+					System.out.println(args[i] + ":\n");
 					System.out.println(JGrep.jgrep(input.toArray(new String[input.size()]), pattern));
 				}
 			}
