@@ -50,7 +50,7 @@ public static void main(String[] args) {
         br.close();
                   
     } catch (FileNotFoundException e) {
-    	System.out.println("Error: File not found");
+    	System.out.println("Fehler: Datei nicht gefunden");
         System.exit(1);
                   
     } catch (Exception e) {
