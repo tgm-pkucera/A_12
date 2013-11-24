@@ -27,16 +27,25 @@ public class JCrepe {
 		Pattern p = Pattern.compile(muster);
 		String inhalt="";
 		try {
-			check.seek(0);
+			check.seek(0);//Hier setzte ich den pointer auf den anfang
 		} catch (IOException e2) {
 			// TODO Auto-generated catch block
 			e2.printStackTrace();
 		}
 		
 		try {
-			
+			while(check.getFilePointer()<check.length()){
+				  
 			inhalt = check.readLine();
+			Matcher m=p.matcher(inhalt);
+			boolean matchesbo=m.matches();
 			
+			//System.err.println( matchesbo);
+			
+			if(matchesbo == true)
+			System.err.println(m.group());
+			
+			}
 			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -45,7 +54,7 @@ public class JCrepe {
 			e.printStackTrace();
 		}
 		//JOptionPane.showMessageDialog(null, inhalt);
-		
+		/*
 		Matcher m=p.matcher(inhalt);
 		boolean matchesbo=m.matches();
 		//System.err.println( matchesbo);
@@ -53,7 +62,7 @@ public class JCrepe {
 		//JOptionPane.showMessageDialog(null, matched);
 		
 		System.err.print(matched);
-		
+		*/
 	}
 	
 	public static void main(String[] args) {
