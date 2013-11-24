@@ -12,7 +12,7 @@ public class JGrep {
 	 * @param gesucht
 	 * @param eingabe 
 	 * @param datei
-	 * @return bullshit
+	 * @return String wird zurück gegeben
 	 */
 	public static String grep(String gesucht, ArrayList<String> eingabe){
 		String ausgabe = "";
