@@ -1,8 +1,3 @@
-/**
- * The JGrep package
- */
-package at.hampl.jgrep;
-
 import java.io.FileNotFoundException;
 import java.io.RandomAccessFile;
 import java.util.Scanner;
@@ -14,7 +9,7 @@ import java.util.regex.Pattern;
  * Implements the UNIX grep command in java
  * 
  * @author Burkhard Hampl
- * @version 1.0
+ * @version 1.1
  */
 public class JGrep {
 	private RandomAccessFile f;
