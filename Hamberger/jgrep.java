@@ -11,13 +11,14 @@ public class jgrep {
 	private static boolean gefunden = true;
 
 	/**
+	 * 
 	 * @return Gibt die gefundenen Zeilen aus.
 	 */
 	@SuppressWarnings("unused")
 	public static String ausfuehren() {
 		try {
 			
-			//Zuständig für das einlesen auf der Console.
+			//Zustï¿½ndig fï¿½r das einlesen auf der Console.
 			Scanner in = new Scanner(System.in);
 			System.out.print("Bitte die RegEx:");
 			regex = in.nextLine();
