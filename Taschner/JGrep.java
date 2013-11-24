@@ -10,6 +10,7 @@ import java.util.regex.*;
  *
  * Dieses Programm liest einen regulären Ausdruck und einen Dateipfad auf der Konsole ein, um die angegebene Datei nach bestimmten Kriterien zu durchsuchen.
  */
+
 public class JGrep {
 
 	@SuppressWarnings("unused")
@@ -96,6 +97,7 @@ public class JGrep {
 	/**
 	 * @param args - Main Methode
 	 */
+	
 	public static void main(String[] args) {
 		new JGrep();
 	}
