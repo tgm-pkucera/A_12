@@ -90,7 +90,7 @@ public class JCrepe {
 			Matcher m = pattern.matcher(line);
 			if(m.find()) {
 					String group = m.group();
-					lines.add(line.replace(group, "\u001B[31m" + group + "\u001B[30m"));
+					lines.add(line.replace(group, "\u001B[31m" + group + "\u001B[0m"));
 			}
 		}
 		br.close();
@@ -104,7 +104,7 @@ public class JCrepe {
 	 */
 	public void start() throws IOException {
 		for(int i = 0; i < files.length; i++) {
-			System.out.println(files[i].getName()+":");
+			System.out.println("\u001B[1m" + files[i].getName()+":" + "\u001B[0m");
 			for(String t : getMatchingLines(files[i])) {
 				AnsiConsole.out.println(t);
 			}
